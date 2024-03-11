@@ -1,0 +1,17 @@
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\ReenbitBlob.exe
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\ReenbitBlob.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\ReenbitBlob.deps.json
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\ReenbitBlob.runtimeconfig.json
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\ReenbitBlob.pdb
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Blobs.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Common.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+D:\Repositories\ENTRY\Новая папка\ReenbitBlob\ReenbitBlob\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll

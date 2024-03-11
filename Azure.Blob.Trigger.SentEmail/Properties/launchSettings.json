@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure.Blob.Trigger.SentEmail": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7174",
+      "launchBrowser": false
+    }
+  }
+}

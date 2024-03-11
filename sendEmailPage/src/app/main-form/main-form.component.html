@@ -1,0 +1,17 @@
+<div>
+    <form>
+        <table>
+            <tbody>
+                <tr>
+                    <td><input type="text" id="email" placeholder="Enter email" #email></td>
+                </tr>
+                <tr>
+                    <td><input type="file" id="file" #file></td>
+                </tr>
+                <tr>
+                    <td class="bottomcell"><input type="button" value="Submit" (click)="uploadData(email.value, file.files)" accept=".docx" id="submit" title="Submit"></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</div>

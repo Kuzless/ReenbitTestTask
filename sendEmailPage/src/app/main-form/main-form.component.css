@@ -1,0 +1,38 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    height: 35px;
+    margin-left: 0;
+}
+
+.bottomcell {
+    border-top: 1px solid black;
+    height: 55px;
+    padding: 0;
+}
+
+#submit {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    display: block; 
+    box-sizing: border-box;    
+}
+
+#email {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;    
+}
+
+#file {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;    
+}
